@@ -1,0 +1,8 @@
+chaine1:12
+chaine2:49
+chaine3:13
+
+chaine4:111
+
+
+chaine5:123
